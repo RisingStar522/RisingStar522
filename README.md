@@ -48,7 +48,7 @@
             <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/FunkiFoxes.png" width="200">
         </td>     
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/ChubbyBunny1.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/GekoSave0.png" width="200">
