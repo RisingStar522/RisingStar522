@@ -42,16 +42,16 @@
     </thead>
     <tr>
         <td>
-           <img src="https://raw.githubusercontent.com/RisingStar522/profile/master/projects/ChubbyBunny1.png" width="200">
+           <img src="https://github.com/RisingStar522/profile/master/projects/ChubbyBunny1.png?raw=true" width="200">
         </td>       
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/FunkiFoxes.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
         </td>     
         <td>
             <img src="https://github.com/RisingStar522/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/GekoSave0.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/GekoSave0.png?raw=true" width="200">
         </td> 
     </tr>     
 </table>
@@ -68,16 +68,16 @@
     </thead>
     <tr>
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/igaratanft.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/igaratanft.png?raw=true" width="200">
         </td>        
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/rabbitnft.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/rabbitnft.png?raw=true" width="200">
         </td> 
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/LunachowNFT.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
         </td> 
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/GekoSave1.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/GekoSave1.png?raw=true" width="200">
         </td>     
     </tr>
 </table>
@@ -93,13 +93,13 @@
     </thead>
     <tr>
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/cosmicswap.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/cosmicswap.png?raw=true" width="200">
         </td>          
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/ddexinfo.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/ddexinfo.png?raw=true" width="200">
         </td>   
         <td>
-            <img src="https://raw.githubusercontent.com/RisingStar522/profile/blob/main/projects/maticswap.png" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/main/projects/maticswap.png?raw=true" width="200">
         </td> 
     </tr>  
 </table>
@@ -118,23 +118,23 @@ Working on this area for more than 15 years so far and I value my skills and tim
 Contact me to discuss more.
 
  <div>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" height="320" />
 </div>
 
 <br/>
 <br/>
 **Languages and Tools:**
 <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?raw=true"></code>
 
 
 <br/>
