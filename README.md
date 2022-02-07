@@ -41,17 +41,18 @@
         </tr>
     </thead>
     <tr>
+    
         <td>
            <img src="https://github.com/RisingStar522/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
         </td>       
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
         </td>     
         <td>
             <img src="https://github.com/RisingStar522/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
         </td>
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/GekoSave0.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
         </td> 
     </tr>     
 </table>
@@ -68,16 +69,16 @@
     </thead>
     <tr>
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/igaratanft.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
         </td>        
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/rabbitnft.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
         </td> 
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
         </td> 
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/GekoSave1.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
         </td>     
     </tr>
 </table>
@@ -93,13 +94,13 @@
     </thead>
     <tr>
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/cosmicswap.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
         </td>          
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/ddexinfo.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
         </td>   
         <td>
-            <img src="https://github.com/RisingStar522/profile/blob/main/projects/maticswap.png?raw=true" width="200">
+            <img src="https://github.com/RisingStar522/profile/blob/master/projects/maticswap.png?raw=true" width="200">
         </td> 
     </tr>  
 </table>
