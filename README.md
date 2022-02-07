@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td>
-           <img src="https://github.com/RisingStar522/profile/master/projects/ChubbyBunny1.png?raw=true" width="200">
+           <img src="https://github.com/RisingStar522/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
         </td>       
         <td>
             <img src="https://github.com/RisingStar522/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
