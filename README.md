@@ -41,7 +41,6 @@
         </tr>
     </thead>
     <tr>
-    
         <td>
            <img src="https://github.com/RisingStar522/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
         </td>       
