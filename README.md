@@ -1,17 +1,19 @@
 <p align='center'>
-<a href="https://t.me/realworld_forward">
+<a href="https://t.me/Alexsei0753">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/HZKQER3BDBPk">
+<a href="https://join.skype.com/invite/iPk25SefEI0Y">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <!--
 <a href="https://discord.gg/Super29#9298">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="+79010428113 ">
+-->
+<a href="+37377824632 ">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:7.bremi.2@gmail.com">
+<a href="mailto:alexsey0753@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
