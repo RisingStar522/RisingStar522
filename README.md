@@ -116,7 +116,7 @@ Familiar with solidity/rust, smart contract, DAPP, NFT market place, NFT game, I
 Working on this area for more than 15 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
 
 Contact me to discuss more.
-
+  
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" height="320" />
 </div>
@@ -167,17 +167,17 @@ Contact me to discuss more.
 </p>
 
 <br/>
-
+<!--
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=RisingStar522&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=RisingStar522&theme=github&count_private=true)
 
 <div align="center"/>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=RisingStar522)
-
-<!-->
+-->
+<!--
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=RisingStar522&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingStar522&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 </div>
-<-->
+-->
