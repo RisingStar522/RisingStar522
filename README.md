@@ -13,7 +13,7 @@
 <a href="+37377824632 ">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:alexsey0753@gmail.com">
+<a href="mailto:alexeu005@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
