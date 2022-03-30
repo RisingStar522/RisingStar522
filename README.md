@@ -1,20 +1,19 @@
 <p align='center'>
-<a href="https://t.me/Alexsei0753">
+<!--
+  <a href="https://t.me/Alexsei0753">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/iPk25SefEI0Y">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <!--
+  
 <a href="https://discord.gg/Super29#9298">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
--->
-<!--
   <a href="+37377824632 ">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
--->
+
 <a href="mailto:alexeu005@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -23,10 +22,11 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-<!-- 
+ 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
+</p> 
+-->
 
 
 <br/><br/><br/>
