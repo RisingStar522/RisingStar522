@@ -1,5 +1,5 @@
-<p align='center'>
 <!--
+<p align='center'>
   <a href="https://t.me/Alexsei0753">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -113,7 +113,7 @@
   
   I am a senior blockchain developer and web, mobile developer.
 
-Familiar with solidity/rust, smart contract, DAPP, NFT market place, NFT game, ICO, IDO events and mastered MERN, MEAN and LAMP stack web application, website development, Flutter mobile app development. 
+Familiar with solidity, smart contract, DAPP, NFT market place, NFT game, ICO, IDO events and mastered MERN, MEAN and LAMP stack web application, website development, Flutter mobile app development. 
 
 Working on this area for more than 7 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
 
