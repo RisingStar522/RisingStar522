@@ -112,7 +112,7 @@
 
 Familiar with solidity, smart contract, DAPP, NFT market place, NFT game, ICO, IDO events and mastered MERN, MEAN and LAMP stack web application, website development, Flutter mobile app development. 
 
-Working on this area for more than 7 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
+Working on this area for more than 10 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
 
 Contact me to discuss more.
   
