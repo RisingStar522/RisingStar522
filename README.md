@@ -5,24 +5,21 @@
 <a href="https://join.skype.com/invite/iPk25SefEI0Y">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-
 <a href="https://discord.gg/brianluck#1451">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="+15414257086">
+  <a href="https://web.whatsapp/+15414257086">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-
-
 <a href="mailto:brianyoung.luck@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
+<!-- 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-<!-- 
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p> 
