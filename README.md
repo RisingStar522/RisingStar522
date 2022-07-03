@@ -8,101 +8,16 @@
 <a href="https://discord.gg/brianluck#1451">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://web.whatsapp/+15414257086">
+<!--
+<a href="https://web.whatsapp/+15414257086">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+-->
 <a href="mailto:brianyoung.luck@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-<!-- 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RisingStar522&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> 
--->
-<br/><br/><br/>
-
-### DeFi Experiences
-<br/>
-- NFT Mint Dapps
-<table>
-    <thead align="center">
-        <tr>
-            <td>CryptoPigs</td>        
-            <td>FunkiFoxes</td>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-           <img src="https://github.com/RisingStar522/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
-        </td>       
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
-        </td>     
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
-        </td>
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
-        </td> 
-    </tr>     
-</table>
-
-- NFT Marketplaces
-<table>
-    <thead align="center">
-        <tr>
-            <td>IgarataArtNFT</td>
-            <td>RabbitNFT</td>
-            <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
-        </td>        
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
-        </td> 
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
-        </td> 
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
-        </td>     
-    </tr>
-</table>
-
-- DEX
-<table>
-<thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
-        </td>          
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
-        </td>   
-        <td>
-            <img src="https://github.com/RisingStar522/profile/blob/master/projects/maticswap.png?raw=true" width="200">
-        </td> 
-    </tr>  
-</table>
-
-<br/></br>
 ### Hi, there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" />
   <br />
   
@@ -164,17 +79,15 @@ Contact me to discuss more.
 </p>
 
 <br/>
-<!--
+
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=RisingStar522&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=RisingStar522&theme=github&count_private=true)
 
 <div align="center"/>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=RisingStar522)
--->
-<!--
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=RisingStar522&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingStar522&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 </div>
--->
