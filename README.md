@@ -1,23 +1,3 @@
-<p align='center'>
-  <a href="https://t.me/RisingStar522">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/iPk25SefEI0Y">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://discord.gg/brianluck#1451">
-  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!--
-<a href="https://web.whatsapp/+15414257086">
-  <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
--->
-<a href="mailto:brianyoung.luck@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
 ### Hi, there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" />
   <br />
   
